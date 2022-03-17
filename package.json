@@ -1,0 +1,15 @@
+{
+  "name": "daysofwarbot",
+  "version": "1.0.0",
+  "description": "Days of war bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "telegraf": "^4.7.0"
+  }
+}
